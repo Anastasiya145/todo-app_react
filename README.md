@@ -32,4 +32,4 @@ It is an interactive simple application for task recording.
 + React Router and hooks
 
 ## 🔗 Get in touch with me!
-[![Linkedin Badge](https://img.shields.io/badge/-linkedin-blue?style=flat&logo=Linkedin&logoColor=white)]([your-linkedin-url](https://www.linkedin.com/in/anastasiya-ivanova-494567109/))
+[![Linkedin Badge](https://img.shields.io/badge/-linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/anastasiya-ivanova-494567109/)
